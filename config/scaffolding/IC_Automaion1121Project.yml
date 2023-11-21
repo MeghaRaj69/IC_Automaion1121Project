@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: IC_Automaion1121Project
+  gitServerName: ICAccountTest1121
+  gitUrl: https://github.com/MeghaRaj69/IC_Automaion1121Project
+  gitUsername: MeghaRaj69
+  gitBranch: Test/CustomBranch/Test
